@@ -8,7 +8,7 @@ oc new-project build-from-dockerfile
 
 Create the app:
 
-`oc new-app --name build-from-dockerfile https://github.com/sebw/ocp4-practice.git\#master --context-dir=hello-world`
+`oc new-app --name build-from-dockerfile https://github.com/sebw/ocp4-practice.git\#master --context-dir build-from-dockerfile`
 
 Expose the service:
 
