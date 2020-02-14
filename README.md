@@ -9,7 +9,7 @@ Untar and copy `oc` and `kubectl` in $PATH.
 Drop `~/.ocp4`:
 
 ```
-RHT_OCP4_MASTER_API=https://api.ocp-eu2.prod.nextcle.com:6443
+RHT_OCP4_MASTER_API=https://api.ocp-eu2.prod.example.com:6443
 RHT_OCP4_DEV_USER=login
 RHT_OCP4_DEV_PASSWORD=xxxxxx
 ```
